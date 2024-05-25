@@ -1,0 +1,17 @@
+---
+title: "Projeto de extensão 1 -aula 3"
+author: "John"
+date: "2024-05-25"
+output: html_document
+---
+# Projeto de Extensão 1 -Aula 3
+
+## Definição de Extensão 
+
+### 5 I´s da extensão
+
+1) Interação Dialógica
+2) Interdisciplinariedade/Interprofissionalidade
+3) Indissociabilidade - Ensino/Pesquisa/Extensão
+4) Impacto Social
+5) Impacto na formação do estudante.
